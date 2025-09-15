@@ -64,7 +64,7 @@ node server.js
 
 You should see the following message in your terminal, indicating that the server is running:
 ```
-✅ Server is running on http://localhost:3001
+Server is running on http://localhost:3001
 ```
 
 ### ### 4. Open the Application
